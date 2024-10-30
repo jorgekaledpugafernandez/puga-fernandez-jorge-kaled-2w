@@ -1,11 +1,12 @@
 print("puga fernandez jorge kaled_3w")
 print(" ")
 
-def full_name(fname, lname):
+# Definir la función que espera dos argumentos
+def my_function(fname, lname):
     print(fname + " " + lname)
 
 # Llamar a la función con dos argumentos
-full_name("Emil", "Refsnes")
+my_function("Emil", "Refsnes")  # Esto es correcto
 
+![image](https://github.com/user-attachments/assets/ce243071-83cd-493d-b733-19e604c347ef)
 
-  ![image](https://github.com/user-attachments/assets/12843de1-0bf9-4319-8233-a8ee51cc9d49)
